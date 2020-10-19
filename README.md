@@ -1,6 +1,14 @@
 # d3js Jumpstart
 
+## Parameters
+### required
 | key  | alias  | required  | type | description  |
+|---|---|---|---|---|
+|  |   |   |   |   |
+
+
+### optional
+| key  | alias  | type  | default | description  |
 |---|---|---|---|---|
 | showTitle |   |   |   |   |
 | showLegend |   |   |   |   |
@@ -51,14 +59,4 @@
 | styleLegendPaddingAfter |   |   |   |   |
 | styleOtherLegendPaddingTextAfter |   |   |   |   |
 | styleOtherLegendPaddingTextBefore |   |   |   |   |
-
-
-
-
-
-
-
-
-
-
 
