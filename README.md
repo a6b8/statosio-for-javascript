@@ -10,7 +10,7 @@
 ### optional
 | key  | alias  | type  | default | description  |
 |---|---|---|---|---|
-| showTitle |   | boolean  |   |   |
+| showTitle |   | ```jsboolean```  |   |   |
 | showLegend |   | boolean  |   |   |
 | showAverage |   | boolean  |   |   |
 | showRangeYLog |   | boolean  |   |   |
