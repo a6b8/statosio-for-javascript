@@ -33,18 +33,20 @@
 | dataLegendTextSeparater |   | string  |   |   |
 | styleColorAverage |   | color hex / html color name  |   |   |
 | styleColorCanvasBackground |   | color hex / html color name  |   |   |
-| styleColorFont |   | string |   |   |
+| styleColorFont |   | color hex / html color name |   |   |
 | styleColorLegends |   | array( color hex / html color name ) |   |   |
-| styleColorGridline |   |   |   |   |
-| styleColorSelectors |   |   |   |   |
-| styleFontSizeText |   |   |   |   |
-| styleFontSizeTitle |   |   |   |   |
-| styleFontFamily |   |   |   |   |
-| styleStrokeAverage |   |   |   |   |
-| styleStrokeGridline |   |   |   |   |
-| styleLegendRectSizeFull |   |   |   |   |
-| styleOtherCircleChartRadius |   |   |   |   |
-| styleOtherRangeXTextRotation |   |   |   |   |
+| styleColorGridline |   | color hex / html color name  |   |   |
+| styleColorSelectors |   | array( color hex / html color name )  |   |   |
+| styleFontSizeText |   | int  |   |   |
+| styleFontSizeTitle |   | int  |   |   |
+| styleFontFamily |   |   | string  |   |
+| styleStrokeAverage |   | color hex / html color name  |   |   |
+| styleStrokeGridline |   | color hex / html color name  |   |   |
+| styleLegendRectSizeFull |   | int  |   |   |
+| styleOtherCircleChartRadius |   | int  |   |   |
+| styleOtherRangeXTextRotation |   | int  |   |   |
+
+
 | viewWidthInner |   |   |   |   |
 | viewHeightInner |   |   |   |   |
 | viewTranslateTitle |   |   |   |   |
