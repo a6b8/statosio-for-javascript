@@ -9,12 +9,12 @@
 | show__data_as_circle |   |   |   |   |
 | view__title |   |   |   |   |
 | view__dom_id |   |   |   |   |
-| view__margin__top  |   |   |   |   |
-| view__margin__right  |   |   |   |   |
-| view__margin__bottom  |   |   |   |   |
-| view__margin__left  |   |   |   |   |
-| view__margin__left  |   |   |   |   |
-| view__height__outer  |   |   |   |   |
+| view__margin__top |   |   |   |   |
+| view__margin__right |   |   |   |   |
+| view__margin__bottom |   |   |   |   |
+| view__margin__left |   |   |   |   |
+| view__margin__left |   |   |   |   |
+| view__height__outer |   |   |   |   |
 | view__translate__multiplicator  |   |   |   |   |
 | data__x__key |   |   |   |   |
 | data__x__selectors |   |   |   |   |
@@ -37,17 +37,6 @@
 | style__legend__rect_size__full |   |   |   |   |
 | style__other__circle_chart_radius |   |   |   |   |
 | style__other__range_x_text_rotation |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-
-
-
-x
 
 
 
