@@ -11,7 +11,7 @@
 ### optional
 | key  | alias  | type  | default | description  |
 |---|---|---|---|---|
-| ```showTitle``` | show__title | ```boolean```  | ```true```  |   |
+| ```showTitle``` | show__title | ```boolean```  | ```jstrue```  |   |
 | ```showLegend``` | show__legend | ```boolean```  | true  |   |
 | ```showAverage``` | show__average | ```boolean```  | true  |   |
 | ```showRangeYLog``` | show__range_y_log | ```boolean```  | false  |   |
