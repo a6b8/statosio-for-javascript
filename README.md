@@ -16,7 +16,7 @@
 | ```showAverage``` | show__average | ```boolean```  | true  |   |
 | ```showRangeYLog``` | show__range_y_log | ```boolean```  | false  |   |
 | ```showDataAsCircle``` | show__data_as_circle | ```boolean```  | false  |   |
-| ```viewTitle``` | view__title | ```string```  | D3js Template  |   |
+| ```viewTitle``` | view__title | ```string```  | D3 Jumpstart  |   |
 | ```viewDomId``` | view__dom_id | ```string```  | grid  |   |
 | ```viewMarginTop``` | view__margin__top | ```number```  | 20  |   |
 | ```viewMarginRight``` | view__margin__right | ```number```  | 40  |   |
