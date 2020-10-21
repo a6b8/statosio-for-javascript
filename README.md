@@ -33,12 +33,12 @@
 | ```styleColorAverage``` | style__color__average | ```string```  | "black"  |   |
 | ```styleColorCanvasBackground``` | style__color__canvas_background | ```string```  | none  |   |
 | ```styleColorFont``` | style__color__font | ```string```  | black  |   |
-| ```styleColorLegends``` | style__color__legends | ```array(hex)```  | [ #5186EC, #D95040, #F2BD42 ]  |   |
-| ```styleColorGridline``` | style__color__gridline | ```string```  | #E5E5E5  |   |
-| ```styleColorSelectors``` | style__color__selectors | ```array(hex)```  | [ #EE752F, #5186EC ] |   |
+| ```styleColorLegends``` | style__color__legends | ```array(hex)```  | [ "#5186EC", "#D95040", "#F2BD42" ]  |   |
+| ```styleColorGridline``` | style__color__gridline | ```string```  | "#E5E5E5"  |   |
+| ```styleColorSelectors``` | style__color__selectors | ```array(hex)```  | [ "#EE752F", "#5186EC" ] |   |
 | ```styleFontSizeText``` | style__font__size__text | ```number```  | 10  |   |
 | ```styleFontSizeTitle``` | style__font__size__title | ```number```  | 18  |   |
-| ```styleFontFamily``` | style__font__family | ```string```  | arial  |   |
+| ```styleFontFamily``` | style__font__family | ```string```  | "arial"  |   |
 | ```styleStrokeAverage``` | style__stroke__average | ```number```  | 2  |   |
 | ```styleStrokeGridline``` | style__stroke__gridline | ```number```  | 2  |   |
 | ```styleLegendRectSizeFull``` | style__legend__rect_size__full | ```number```  | 16  |   |
