@@ -30,7 +30,7 @@
 | ```dataXTextPlaceholder``` | data__x__text__placeholder | ```string```  | "..."  |   |
 | ```dataYTicks``` | data__y__ticks | ```number```  | 5  |   |
 | ```dataLegendTextSeparater``` | data__legend__text__separater | ```string```  | "_"  |   |
-| ```styleColorAverage``` | style__color__average | ```string```  | "black"  |   |
+| ```styleColorAverage``` | style__color__average | ```string```  | "#000000"  |   |
 | ```styleColorCanvasBackground``` | style__color__canvas_background | ```string```  | none  |   |
 | ```styleColorFont``` | style__color__font | ```string```  | black  |   |
 | ```styleColorLegends``` | style__color__legends | ```array(hex)```  | [ "#5186EC", "#D95040", "#F2BD42" ]  |   |
