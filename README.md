@@ -5,7 +5,7 @@
 | key  | alias  | type  |
 |---|---|---|
 | ```dataXKey``` | data__x__key | ```string```  |
-| ```dataYKeys``` | data__y__keys | ```object```  |
+| ```dataYKeys``` | data__y__keys | ```array(ykeys)```  |
 
 
 ### optional
