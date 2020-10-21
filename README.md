@@ -1,5 +1,7 @@
 # D3 Jumpstart
 
+d3.jumpstart( 'source', optional )
+
 ## Parameters
 ### required
 | key  | alias  | type  |
