@@ -1,4 +1,4 @@
-# d3js Jumpstart
+# D3 Jumpstart
 
 ## Parameters
 ### required
@@ -25,7 +25,7 @@
 | ```viewWidthOuter``` | view__width__outer | ```number```  | 600  |   |
 | ```viewHeightOuter``` | view__height__outer | ```number```  | 300  |   |
 | ```viewTranslateMultiplicator``` | view__translate__multiplicator | ```number```  | 1.5  |   |
-| ```dataXSelectors``` | data__x__selectors | ```object```  |   |   |
+| ```dataXSelectors``` | data__x__selectors | ```array( ykeys )```  | []  |   |
 | ```dataXTextLength``` | data__x__text__length | ```number```  | 25  |   |
 | ```dataXTextPlaceholder``` | data__x__text__placeholder | ```string```  | ...  |   |
 | ```dataYTicks``` | data__y__ticks | ```number```  | 5  |   |
@@ -33,9 +33,9 @@
 | ```styleColorAverage``` | style__color__average | ```string```  | black  |   |
 | ```styleColorCanvasBackground``` | style__color__canvas_background | ```string```  | none  |   |
 | ```styleColorFont``` | style__color__font | ```string```  | black  |   |
-| ```styleColorLegends``` | style__color__legends | ```object```  | #5186EC, #D95040, #F2BD42  |   |
+| ```styleColorLegends``` | style__color__legends | ```array( hex values )```  | [ #5186EC, #D95040, #F2BD42 ]  |   |
 | ```styleColorGridline``` | style__color__gridline | ```string```  | #E5E5E5  |   |
-| ```styleColorSelectors``` | style__color__selectors | ```object```  | #EE752F, #5186EC  |   |
+| ```styleColorSelectors``` | style__color__selectors | ```array( hex values )```  | #EE752F, #5186EC  |   |
 | ```styleFontSizeText``` | style__font__size__text | ```number```  | 10  |   |
 | ```styleFontSizeTitle``` | style__font__size__title | ```number```  | 18  |   |
 | ```styleFontFamily``` | style__font__family | ```string```  | arial  |   |
