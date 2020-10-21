@@ -25,7 +25,7 @@
 | ```viewWidthOuter``` | view__width__outer | ```number```  | 600  |   |
 | ```viewHeightOuter``` | view__height__outer | ```number```  | 300  |   |
 | ```viewTranslateMultiplicator``` | view__translate__multiplicator | ```number```  | 1.5  |   |
-| ```dataXSelectors``` | data__x__selectors | ```array( ykeys )```  | []  |   |
+| ```dataXSelectors``` | data__x__selectors | ```array(ykeys)```  | []  |   |
 | ```dataXTextLength``` | data__x__text__length | ```number```  | 25  |   |
 | ```dataXTextPlaceholder``` | data__x__text__placeholder | ```string```  | "..."  |   |
 | ```dataYTicks``` | data__y__ticks | ```number```  | 5  |   |
