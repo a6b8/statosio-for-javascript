@@ -1,6 +1,6 @@
 # D3 Jumpstart
 
-d3.jumpstart( 'source', optional )
+d3.jumpstart( 'source', 'x key', 'y key', optional )
 
 ## Parameters
 ### required
