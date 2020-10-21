@@ -32,7 +32,7 @@
 | ```dataLegendTextSeparater``` | data__legend__text__separater | ```string```  | "_"  |   |
 | ```styleColorAverage``` | style__color__average | ```string```  | "#000000"  |   |
 | ```styleColorCanvasBackground``` | style__color__canvas_background | ```string```  | none  |   |
-| ```styleColorFont``` | style__color__font | ```string```  | black  |   |
+| ```styleColorFont``` | style__color__font | ```string```  | "#000000"  |   |
 | ```styleColorLegends``` | style__color__legends | ```array(hex)```  | [ "#5186EC", "#D95040", "#F2BD42" ]  |   |
 | ```styleColorGridline``` | style__color__gridline | ```string```  | "#E5E5E5"  |   |
 | ```styleColorSelectors``` | style__color__selectors | ```array(hex)```  | [ "#EE752F", "#5186EC" ] |   |
