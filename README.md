@@ -11,13 +11,13 @@
 ### optional
 | key  | alias  | type  | default | description  |
 |---|---|---|---|---|
-| ```showTitle``` | show__title | ```boolean```  | ```js true```  |   |
+| ```showTitle``` | show__title | ```boolean```  | true  |   |
 | ```showLegend``` | show__legend | ```boolean```  | true  |   |
 | ```showAverage``` | show__average | ```boolean```  | true  |   |
 | ```showRangeYLog``` | show__range_y_log | ```boolean```  | false  |   |
 | ```showDataAsCircle``` | show__data_as_circle | ```boolean```  | false  |   |
-| ```viewTitle``` | view__title | ```string```  | D3 Jumpstart  |   |
-| ```viewDomId``` | view__dom_id | ```string```  | grid  |   |
+| ```viewTitle``` | view__title | ```string```  | "D3 Jumpstart"  |   |
+| ```viewDomId``` | view__dom_id | ```string```  | "d3Jumpstart"  |   |
 | ```viewMarginTop``` | view__margin__top | ```number```  | 20  |   |
 | ```viewMarginRight``` | view__margin__right | ```number```  | 40  |   |
 | ```viewMarginBottom``` | view__margin__bottom | ```number```  | 100  |   |
@@ -27,15 +27,15 @@
 | ```viewTranslateMultiplicator``` | view__translate__multiplicator | ```number```  | 1.5  |   |
 | ```dataXSelectors``` | data__x__selectors | ```array( ykeys )```  | []  |   |
 | ```dataXTextLength``` | data__x__text__length | ```number```  | 25  |   |
-| ```dataXTextPlaceholder``` | data__x__text__placeholder | ```string```  | ...  |   |
+| ```dataXTextPlaceholder``` | data__x__text__placeholder | ```string```  | "..."  |   |
 | ```dataYTicks``` | data__y__ticks | ```number```  | 5  |   |
-| ```dataLegendTextSeparater``` | data__legend__text__separater | ```string```  | _  |   |
-| ```styleColorAverage``` | style__color__average | ```string```  | black  |   |
+| ```dataLegendTextSeparater``` | data__legend__text__separater | ```string```  | "_"  |   |
+| ```styleColorAverage``` | style__color__average | ```string```  | "black"  |   |
 | ```styleColorCanvasBackground``` | style__color__canvas_background | ```string```  | none  |   |
 | ```styleColorFont``` | style__color__font | ```string```  | black  |   |
-| ```styleColorLegends``` | style__color__legends | ```array( hex )```  | [ #5186EC, #D95040, #F2BD42 ]  |   |
+| ```styleColorLegends``` | style__color__legends | ```array(hex)```  | [ #5186EC, #D95040, #F2BD42 ]  |   |
 | ```styleColorGridline``` | style__color__gridline | ```string```  | #E5E5E5  |   |
-| ```styleColorSelectors``` | style__color__selectors | ```array( hex )```  | [ #EE752F, #5186EC ] |   |
+| ```styleColorSelectors``` | style__color__selectors | ```array(hex)```  | [ #EE752F, #5186EC ] |   |
 | ```styleFontSizeText``` | style__font__size__text | ```number```  | 10  |   |
 | ```styleFontSizeTitle``` | style__font__size__title | ```number```  | 18  |   |
 | ```styleFontFamily``` | style__font__family | ```string```  | arial  |   |
