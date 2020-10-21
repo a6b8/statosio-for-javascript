@@ -10,7 +10,7 @@
 
 ### optional
 | key  | alias  | type  | default |
-|---|---|---|---|---|
+|---|---|---|---|
 | ```showTitle``` | show__title | ```boolean```  | true  |
 | ```showLegend``` | show__legend | ```boolean```  | true  |
 | ```showAverage``` | show__average | ```boolean```  | true  |
