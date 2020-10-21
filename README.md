@@ -3,7 +3,7 @@
 ## Parameters
 ### required
 | key  | alias  | type  | description  |
-|---|---|---|---|---|
+|---|---|---|---|
 | ```dataXKey``` | data__x__key | ```string```  |   |
 | ```dataYKeys``` | data__y__keys | ```object```  |   |
 
