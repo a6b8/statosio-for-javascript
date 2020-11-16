@@ -1,4 +1,4 @@
-# D3 Jumpstart
+# d3.statosio
 
 d3.jumpstart( 'source', 'x key', 'y key', optional )
 
