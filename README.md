@@ -1,7 +1,5 @@
 # d3.statosio
 
-d3.jumpstart( 'source', 'x key', 'y key', optional )
-
 ## Parameters
 ### required
 | key  | alias  | type  |
