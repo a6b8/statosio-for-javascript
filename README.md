@@ -13,7 +13,7 @@ d3.jumpstart( 'source', 'x key', 'y key', optional )
 ### optional
 ## Show
 
-|   | **Option** | **Default** | **Examples** | **Description** |
+| **Nr**| **Option** | **Default** | **Examples** | **Description** |
 | A.1. | [showTitle](show__title.md) | false | [A](../options/../options/show__title.html#example-a), [B](../options/../options/show__title.html#example-b) | Show or hide title on the front of the diagram. |
 | A.2. | [showLegend](show__legend.md) | false | [A](../options/../options/show__legend.html#example-a), [B](../options/../options/show__legend.html#example-b) | Show or hide legend. Recommended for stacked diagrams. |
 | A.3. | [showAverage](show__average.md) | true | [A](../options/../options/show__average.html#example-a), [B](../options/../options/show__average.html#example-b) | Calculate and show average line |
