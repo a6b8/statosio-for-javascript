@@ -4,7 +4,9 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 
 
 :heavy_check_mark: build simple diagrams fast and reliable, with one function!
+
 :heavy_check_mark: pure javascript, no additonal css.
+
 :heavy_check_mark: highly customizable with 40+ style and data options.
 
 
