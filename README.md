@@ -7,8 +7,8 @@ We need following files.
 | **Name** | **Source** | **Description** |
 |:--|:--|:--|
 | d3.js | [https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js](https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js) | d3.js Library | 
-| statosio.js | [../libs/statosio.js](../libs/statosio.js) | statosio.js Library | 
-| performance.json | [../data/performance.json](../data/performance.json) | Dataset |
+| statosio.js | [https://d3.statosio.com/libs/statosio.js](../libs/statosio.js) | statosio.js Library | 
+| performance.json | [https://d3.statosio.com/data/performance.json](../data/performance.json) | Dataset |
 
 ```html
 <!DOCTYPE html>
