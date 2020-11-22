@@ -1,4 +1,15 @@
-# d3.statosio
+![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)
+
+An add-on function for [d3](https://d3js.org){:target="_blank"} to generate simple chart diagrams, fast and reliable.
+
+
+## Features
+
+:heavy_check_mark: build simple diagrams fast and reliable, with one function!
+
+:heavy_check_mark: pure javascript, no additonal css.
+
+:heavy_check_mark: highly customizable with 40+ style and data options.
 
 
 ## Full Example
