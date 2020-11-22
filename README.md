@@ -1,6 +1,6 @@
 ![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)
 
-An add-on function for [d3](https://d3js.org){:target="_blank"} to generate simple chart diagrams, fast and reliable.
+An add-on function for [d3](https://d3js.org) to generate simple chart diagrams, fast and reliable.
 
 
 ## Features
