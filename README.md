@@ -4,28 +4,31 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 
 
 :heavy_check_mark: build simple diagrams fast and reliable, with one function!
-
 :heavy_check_mark: pure javascript, no additonal css.
-
 :heavy_check_mark: highly customizable with 40+ style and data options.
 
 
-## Diagrams
+## Chart Types
 ### Bar
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)
+[See Example](../options/show__average.html#source-code-1)
 ### Point
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.jpg)
+[See Example](../options/show__data_as_circle.html#source-code-2)
 ### Stacked
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)
-
+[See Example](../options/show__legend.html#source-code-2)
 
 ## Features
 ### Select
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)
+[See Tutorial](../tutorials/select-data.html)
 ### Sort Data
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)
+[See Tutorial](../tutorials/sort-data.html)
 ### Change Style
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)
+[See Tutorial](../tutorials/dark-mode.html)
 
 
 ## Full Example
