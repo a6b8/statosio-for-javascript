@@ -9,7 +9,7 @@
 
 # Options
 ## Categories
-### A. Show {#show}
+### A. Show
 Show or hide elements from the view.
 
 |   | **Option** | **Default** | **Examples** | **Description** |
@@ -20,7 +20,7 @@ Show or hide elements from the view.
 | A.4. | [showRangeYLog](https://d3.statosio.com/options/show__range_y_log.html) | false | [A](https://d3.statosio.com/options/show__range_y_log.html#example-a), [B](https://d3.statosio.com/options/show__range_y_log.html#example-b) | Calculate and show range y in a log scale. |
 | A.5. | [showDataAsCircle](https://d3.statosio.com/options/show__data_as_circle.html) | false | [A](https://d3.statosio.com/options/show__data_as_circle.html#example-a), [B](https://d3.statosio.com/options/show__data_as_circle.html#example-b), [C](https://d3.statosio.com/options/show__data_as_circle.html#example-c) | Show data as circles instead of rectangles. Only for not stacked diagram available. |
 
-### B. View {#view}
+### B. View
 Settings around the diagram as a whole.
 
 |   | **Option** | **Default** | **Examples** | **Description** |
@@ -35,7 +35,7 @@ Settings around the diagram as a whole.
 | B.8. | [viewHeightOuter](https://d3.statosio.com/options/view__height__outer.html) | 300 | [A](https://d3.statosio.com/options/view__height__outer.html#example-a), [B](https://d3.statosio.com/options/view__height__outer.html#example-b) | Set height of the "canvas" including margin. |
 | B.9. | [viewTranslateMultiplicator](https://d3.statosio.com/options/view__translate__multiplicator.html) | 1.5 | [A](https://d3.statosio.com/options/view__translate__multiplicator.html#example-a), [B](https://d3.statosio.com/options/view__translate__multiplicator.html#example-b) | Between title, legend and diagram are spaces. These spaces gets calculated through this multiplicator. |
 
-### C. Data {#data}
+### C. Data
 Rearrange Data by sorting or set selectors.
 
 |   | **Option** | **Default** | **Examples** | **Description** |
@@ -52,7 +52,7 @@ Rearrange Data by sorting or set selectors.
 | C.10. | [dataSortSelection](https://d3.statosio.com/options/data__sort__selection.html) | "none" | [A](https://d3.statosio.com/options/data__sort__selection.html#example-a), [B](https://d3.statosio.com/options/data__sort__selection.html#example-b), [C](https://d3.statosio.com/options/data__sort__selection.html#example-c) | Change position of your selection. You can choose between "start", "end" and "none" |
 | C.11. | [dataLegendTextSeparater](https://d3.statosio.com/options/data__legend__text__separater.html) | "_" | [A](https://d3.statosio.com/options/data__legend__text__separater.html#example-a) | This tweak split your keys with the separater and capitalize every word and insert a space in between. |
 
-### D. Style {#style}
+### D. Style
 Set style settings from specific element.
 
 |   | **Option** | **Default** | **Examples** | **Description** |
