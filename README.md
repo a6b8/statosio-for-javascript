@@ -14,11 +14,11 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 
 ## Diagrams
 ### Bar
-![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.png)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)
 ### Point
-![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.png)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.jpg)
 ### Stacked
-![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.png)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)
 
 
 ## Full Example
