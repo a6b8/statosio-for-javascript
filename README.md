@@ -11,24 +11,24 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 ## Chart Types
 ### Bar
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)
-[See Example](../options/show__average.html#source-code-1)
+[See Example](https://d3.statosio.com/options/show__average.html#source-code-1)
 ### Point
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.jpg)
-[See Example](../options/show__data_as_circle.html#source-code-2)
+[See Example](https://d3.statosio.com/options/show__data_as_circle.html#source-code-2)
 ### Stacked
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)
-[See Example](../options/show__legend.html#source-code-2)
+[See Example](https://d3.statosio.com/options/show__legend.html#source-code-2)
 
 ## Features
 ### Select
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)
-[See Tutorial](../tutorials/select-data.html)
+[See Tutorial](https://d3.statosio.com/tutorials/select-data.html)
 ### Sort Data
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)
-[See Tutorial](../tutorials/sort-data.html)
+[See Tutorial](https://d3.statosio.com/tutorials/sort-data.html)
 ### Change Style
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)
-[See Tutorial](../tutorials/dark-mode.html)
+[See Tutorial](https://d3.statosio.com/tutorials/dark-mode.html)
 
 
 ## Full Example
