@@ -12,6 +12,15 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 :heavy_check_mark: highly customizable with 40+ style and data options.
 
 
+## Diagrams
+### Bar
+![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.png)
+### Point
+![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.png)
+### Stacked
+![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.png)
+
+
 ## Full Example
 We need following files.
 
