@@ -24,7 +24,7 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)
 ### Sort Data
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)
-### Customize
+### Change Style
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)
 
 
