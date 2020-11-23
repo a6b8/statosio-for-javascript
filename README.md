@@ -1,4 +1,4 @@
-![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)
+![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)<br>
 [d3.statosio - Documentation](https://d3.statosio.com/)
 
 
