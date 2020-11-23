@@ -13,68 +13,27 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 ## Chart Types
 ### Bar
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)
-[See Example](https://d3.statosio.com/options/show__average.html#source-code-1)
+[Create simple bar chart](https://d3.statosio.com/tutorials/simple-bar-chart.html)
 ### Point
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.jpg)
-[See Example](https://d3.statosio.com/options/show__data_as_circle.html#source-code-2)
+[Create a simple point chart](https://d3.statosio.com/tutorials/simple-point-chart.html)
 ### Stacked
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)
-[See Example](https://d3.statosio.com/options/show__legend.html#source-code-2)
+[Create simple stacked bar chart](https://d3.statosio.com/tutorials/simple-stacked-bar-chart.html)
 
 ## Features
 ### Select
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)
-[See Tutorial](https://d3.statosio.com/tutorials/select-data.html)
+[Select and change position of columns](https://d3.statosio.com/tutorials/select-data.html)
 ### Sort Data
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)
-[See Tutorial](https://d3.statosio.com/tutorials/sort-data.html)
+[Sort dataset by values](https://d3.statosio.com/tutorials/sort-data.html)
 ### Change Style
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)
-[See Tutorial](https://d3.statosio.com/tutorials/dark-mode.html)
+[Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
 
 
-## Full Example
-We need following files.
-
-| **Name** | **Source** | **Description** |
-|:--|:--|:--|
-| d3.js | [https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js](https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js) | d3.js Library | 
-| statosio.js | [https://d3.statosio.com/libs/statosio.js](https://d3.statosio.com/libs/statosio.js) | statosio.js Library | 
-| performance.json | [https://d3.statosio.com/data/performance.json](https://d3.statosio.com/data/performance.json) | Dataset |
-
-```html
-<!DOCTYPE html>
-<head>
-    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js"></script>
-    <script src="../libs/statosio.js"></script>
-</head>
-<body>
-    <script>
-        d3.json( "../data/performance.json" )
-            .then( ( file ) => {
-                d3.statosio( 
-                    file, 
-                    "name", 
-                    [ "mobile" ], 
-                    {}
-                )
-            } 
-        )
-    </script>
-</body>
-```
-
-
-## Parameters
-### required
-| key  | alias  | type  |
-|---|---|---|
-| ```dataXKey``` | data__x__key | ```string```  |
-| ```dataYKeys``` | data__y__keys | ```array(ykeys)```  |
-
-# Options
-## Categories
+## Options
 ### A. Show
 Show or hide elements from the view.
 
