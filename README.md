@@ -23,11 +23,8 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
   * [Select](#select)
   * [Sort Data](#sort-data)
   * [Change Style](#change-style)
-- [Options](#options)
-  * [A. Show](#a-show)
-  * [B. View](#b-view)
-  * [C. Data](#c-data)
-  * [D. Style](#d-style)
+- [Statosio](#statosio)
+  * [Options](#options)
 - [Future](#future)
 
 
@@ -55,6 +52,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 
 
 ## Statosio
+[https://d3.statosio.com/options/](https://d3.statosio.com/options/)
 
 ```javascript
 d3.statosio( source, x, y, options )
