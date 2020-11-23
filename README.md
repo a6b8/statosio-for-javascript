@@ -120,3 +120,7 @@ d3.statosio( source, x, y, options )
 - [ ] premium overlay
 - [ ] node.js version
 - [ ] greyscale mode
+
+
+## Licence
+d3.statosio is released under the MIT License.
