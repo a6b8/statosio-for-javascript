@@ -1,6 +1,4 @@
 ![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)
-[[[https://d3.statosio.com/assets/images/d3-statosio-200.png]]][1]
-[1]: https://d3.statosio.com
 
 Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way.
 
