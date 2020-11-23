@@ -112,3 +112,11 @@ Set style settings from specific element.
 | D.15. | [styleOtherCircleChartRadius](https://d3.statosio.com/options/style__other__circle_chart_radius.html) | 4 | [A](https://d3.statosio.com/options/style__other__circle_chart_radius.html#example-a), [B](https://d3.statosio.com/options/style__other__circle_chart_radius.html#example-b) | Set radius of circle. |
 | D.16. | [styleOtherRangeXTextRotation](https://d3.statosio.com/options/style__other__range_x_text_rotation.html) | -45 | [A](https://d3.statosio.com/options/style__other__range_x_text_rotation.html#example-a), [B](https://d3.statosio.com/options/style__other__range_x_text_rotation.html#example-b) | Set text rotation of the x axis. |
 
+
+## Future
+- url parameters
+- d3 -> canvas -> png
+- blur
+- premium overlay
+- node.js version
+- greyscale mode
