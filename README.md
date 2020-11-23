@@ -14,6 +14,22 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 [https://d3.statosio.com](https://d3.statosio.com/)
 
 
+**Table of Contens**
+- [Chart Types](#chart-types)
+  * [Bar](#bar)
+  * [Point](#point)
+  * [Stacked](#stacked)
+- [Features](#features)
+  * [Select](#select)
+  * [Sort Data](#sort-data)
+  * [Change Style](#change-style)
+- [Options](#options)
+  * [A. Show](#a-show)
+  * [B. View](#b-view)
+  * [C. Data](#c-data)
+  * [D. Style](#d-style)
+- [Future](#future)
+
 
 ## Chart Types
 ### Bar
