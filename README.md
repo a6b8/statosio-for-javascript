@@ -54,7 +54,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 [Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
 
 
-## Options
+## Statosio
 
 ```javascript
 d3.statosio( source, x, y, options )
@@ -68,8 +68,7 @@ d3.statosio( source, x, y, options )
 | **Options** | ```{}``` | Object |
 
 
-### A. Show
-Show or hide elements from the view.
+### Options
 
 |   | **Option** | **Default** | **Examples** | **Description** |
 |:--|:--|:--|:--|:--|
@@ -78,12 +77,6 @@ Show or hide elements from the view.
 | A.3. | [showAverage](https://d3.statosio.com/options/show__average.html) | true | [A](https://d3.statosio.com/options/show__average.html#example-a), [B](https://d3.statosio.com/options/show__average.html#example-b), [C](https://d3.statosio.com/options/show__average.html#example-c) | Calculate and show average line |
 | A.4. | [showRangeYLog](https://d3.statosio.com/options/show__range_y_log.html) | false | [A](https://d3.statosio.com/options/show__range_y_log.html#example-a), [B](https://d3.statosio.com/options/show__range_y_log.html#example-b) | Calculate and show range y in a log scale. |
 | A.5. | [showDataAsCircle](https://d3.statosio.com/options/show__data_as_circle.html) | false | [A](https://d3.statosio.com/options/show__data_as_circle.html#example-a), [B](https://d3.statosio.com/options/show__data_as_circle.html#example-b), [C](https://d3.statosio.com/options/show__data_as_circle.html#example-c) | Show data as circles instead of rectangles. Only for not stacked diagram available. |
-
-### B. View
-Settings around the diagram as a whole.
-
-|   | **Option** | **Default** | **Examples** | **Description** |
-|:--|:--|:--|:--|:--|
 | B.1. | [viewTitle](https://d3.statosio.com/options/view__title.html) | "Statosio Demo" | [A](https://d3.statosio.com/options/view__title.html#example-a) | Set title content. |
 | B.2. | [viewDomId](https://d3.statosio.com/options/view__dom_id.html) | "d3_statosio" | [A](https://d3.statosio.com/options/view__dom_id.html#example-a) | Set id from the <div> Element which holds the d3 content inside. |
 | B.3. | [viewMarginTop](https://d3.statosio.com/options/view__margin__top.html) | 20 | [A](https://d3.statosio.com/options/view__margin__top.html#example-a), [B](https://d3.statosio.com/options/view__margin__top.html#example-b) | Set margin top |
@@ -93,12 +86,6 @@ Settings around the diagram as a whole.
 | B.7. | [viewWidthOuter](https://d3.statosio.com/options/view__width__outer.html) | 600 | [A](https://d3.statosio.com/options/view__width__outer.html#example-a), [B](https://d3.statosio.com/options/view__width__outer.html#example-b) | Set width of the "canvas" including margin, titles etc. |
 | B.8. | [viewHeightOuter](https://d3.statosio.com/options/view__height__outer.html) | 300 | [A](https://d3.statosio.com/options/view__height__outer.html#example-a), [B](https://d3.statosio.com/options/view__height__outer.html#example-b) | Set height of the "canvas" including margin. |
 | B.9. | [viewTranslateMultiplicator](https://d3.statosio.com/options/view__translate__multiplicator.html) | 1.5 | [A](https://d3.statosio.com/options/view__translate__multiplicator.html#example-a), [B](https://d3.statosio.com/options/view__translate__multiplicator.html#example-b) | Between title, legend and diagram are spaces. These spaces gets calculated through this multiplicator. |
-
-### C. Data
-Rearrange Data by sorting or set selectors.
-
-|   | **Option** | **Default** | **Examples** | **Description** |
-|:--|:--|:--|:--|:--|
 | C.1. | [dataXKey](https://d3.statosio.com/options/data__x__key.html) | "" |  | Expect a "key" name from the dataset to arrange the x range. |
 | C.2. | [dataXSelectors](https://d3.statosio.com/options/data__x__selectors.html) | [] | [A](https://d3.statosio.com/options/data__x__selectors.html#example-a), [B](https://d3.statosio.com/options/data__x__selectors.html#example-b) | Expect one or more names which are included in the x range. |
 | C.3. | [dataXTextLength](https://d3.statosio.com/options/data__x__text__length.html) | 25 | [A](https://d3.statosio.com/options/data__x__text__length.html#example-a), [B](https://d3.statosio.com/options/data__x__text__length.html#example-b) | This value counts the length of the x range names an cut of the rest. |
@@ -110,12 +97,6 @@ Rearrange Data by sorting or set selectors.
 | C.9. | [dataSortByNames](https://d3.statosio.com/options/data__sort__by__names.html) | "ascending" | [A](https://d3.statosio.com/options/data__sort__by__names.html#example-a), [B](https://d3.statosio.com/options/data__sort__by__names.html#example-b) | Here you can set type of sorting. You can choose between "ascending" and "decending" |
 | C.10. | [dataSortSelection](https://d3.statosio.com/options/data__sort__selection.html) | "none" | [A](https://d3.statosio.com/options/data__sort__selection.html#example-a), [B](https://d3.statosio.com/options/data__sort__selection.html#example-b), [C](https://d3.statosio.com/options/data__sort__selection.html#example-c) | Change position of your selection. You can choose between "start", "end" and "none" |
 | C.11. | [dataLegendTextSeparater](https://d3.statosio.com/options/data__legend__text__separater.html) | "_" | [A](https://d3.statosio.com/options/data__legend__text__separater.html#example-a) | This tweak split your keys with the separater and capitalize every word and insert a space in between. |
-
-### D. Style
-Set style settings from specific element.
-
-|   | **Option** | **Default** | **Examples** | **Description** |
-|:--|:--|:--|:--|:--|
 | D.1. | [styleColorAverage](https://d3.statosio.com/options/style__color__average.html) | "#000000" | [A](https://d3.statosio.com/options/style__color__average.html#example-a), [B](https://d3.statosio.com/options/style__color__average.html#example-b) | Set color of the average line. |
 | D.2. | [styleColorCanvasBackground](https://d3.statosio.com/options/style__color__canvas_background.html) | "white" | [A](https://d3.statosio.com/options/style__color__canvas_background.html#example-a), [B](https://d3.statosio.com/options/style__color__canvas_background.html#example-b) | Set background color. |
 | D.3. | [styleColorFont](https://d3.statosio.com/options/style__color__font.html) | "#000000" | [A](https://d3.statosio.com/options/style__color__font.html#example-a), [B](https://d3.statosio.com/options/style__color__font.html#example-b) | Set default font color. Excluding non-selection content. |
