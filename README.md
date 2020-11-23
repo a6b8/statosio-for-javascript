@@ -12,24 +12,24 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 
 ## Chart Types
 ### Bar
-![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)<br>
 [Create simple bar chart](https://d3.statosio.com/tutorials/simple-bar-chart.html)
 ### Point
-![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.jpg)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-point-400.jpg)<br>
 [Create a simple point chart](https://d3.statosio.com/tutorials/simple-point-chart.html)
 ### Stacked
-![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)<br>
 [Create simple stacked bar chart](https://d3.statosio.com/tutorials/simple-stacked-bar-chart.html)
 
 ## Features
 ### Select
-![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)<br>
 [Select and change position of columns](https://d3.statosio.com/tutorials/select-data.html)
 ### Sort Data
-![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)<br>
 [Sort dataset by values](https://d3.statosio.com/tutorials/sort-data.html)
 ### Change Style
-![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)
+![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
 [Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
 
 
