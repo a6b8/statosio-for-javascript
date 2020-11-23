@@ -114,9 +114,9 @@ Set style settings from specific element.
 
 
 ## Future
-- [] url parameters
-- [] d3 -> canvas -> png
-- [] blur
-- [] premium overlay
-- [] node.js version
-- [] greyscale mode
+- [ ] url parameters
+- [ ] d3 -> canvas -> png
+- [ ] blur
+- [ ] premium overlay
+- [ ] node.js version
+- [ ] greyscale mode
