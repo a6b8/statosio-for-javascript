@@ -34,6 +34,19 @@ An add-on function for [d3](https://d3js.org) to generate simple chart diagrams,
 
 
 ## Options
+
+```javascript
+d3.statosio( source, x, y, options )
+``````
+
+| | **Value** | **Type** |
+|------:|:------|:------|
+| **Source** | ```[{},{}...]``` | Array of Objects |
+| **X** | ```"name"``` | String |
+| **Y** | ```[ "mobile" ]``` | Array of Strings or String |
+| **Options** | ```{}``` | Object |
+
+
 ### A. Show
 Show or hide elements from the view.
 
