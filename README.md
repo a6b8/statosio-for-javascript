@@ -9,12 +9,15 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 :heavy_check_mark: highly customizable with 40+ style and data options.
 
 
+
 **Video Introduction:**
 [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
 
 
 **Documentation:** 
 [https://d3.statosio.com](https://d3.statosio.com/)
+
+
 
 
 **Table of Contens**
