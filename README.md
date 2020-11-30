@@ -2,7 +2,7 @@
 
 Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/i6od9O8jz1E/0.jpg)](https://www.youtube.com/watch?v=i6od9O8jz1E)
+[![IMAGE ALT TEXT HERE](https://d3.statosio.com/assets/images/video-thumbnail.png)](https://www.youtube.com/watch?v=i6od9O8jz1E)
 
 
 
