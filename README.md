@@ -54,7 +54,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 ## Statosio
 
 ```javascript
-d3.statosio( source, x, y, options )
+d3.statosio( dataset, x, y, options )
 ``````
 
 | | **Value** | **Type** |
