@@ -65,10 +65,10 @@ d3.statosio( dataset, x, y, options )
 
 | | **Value** | **Type** |
 |------:|:------|:------|
-| **Source** | ```[{},{}...]``` | Array of Objects |
-| **X** | ```"name"``` | String |
-| **Y** | ```[ "mobile" ]``` | Array of Strings or String |
-| **Options** | ```{}``` | Object |
+| **dataset** | ```[{},{}...]``` | Array of Objects |
+| **x** | ```"name"``` | String |
+| **y** | ```[ "mobile" ]``` | Array of Strings or String |
+| **options** | ```{}``` | Object |
 
 
 ### Options
