@@ -8,6 +8,8 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 
 :heavy_check_mark: highly customizable with 40+ style and data options.
 
+**Source**
+[https://cdnjs.com/libraries/statosio](https://cdnjs.com/libraries/statosio) [![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
 
 
 **Video Introduction:**
