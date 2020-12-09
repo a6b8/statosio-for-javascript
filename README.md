@@ -1,5 +1,7 @@
 ![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)
 
+[![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
+
 Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way.
 
 :heavy_check_mark: build simple diagrams fast and reliable, with one function!
@@ -12,7 +14,6 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 ```html
   <script src="https://cdnjs.cloudflare.com/ajax/libs/statosio/0.9/statosio.js"></script>
 ```
-[![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
 
 **Video Introduction:**
 [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
