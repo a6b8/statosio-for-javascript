@@ -131,6 +131,7 @@ d3.statosio( dataset, x, y, options )
 - [ ] premium overlay
 - [ ] node.js version
 - [ ] greyscale mode
+- [ ] IBCS Color Standards
 
 
 ## Licence
