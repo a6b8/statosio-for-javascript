@@ -69,10 +69,16 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 ### Change Style
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
 [Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/quickstart.svg" height="55px" alt="Quickstart">
 
 ```javascript
 d3.statosio( dataset, x, y, options )
 ``````
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="55px" alt="Parameters">
 
 | | **Value** | **Type** |
 |------:|:------|:------|
@@ -81,7 +87,8 @@ d3.statosio( dataset, x, y, options )
 | **y** | ```"mobile"```, ```[ "mobile",... ]``` | String or Array of Strings |
 | **options** | ```{}``` | Object |
 
-
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/options.svg" height="55px" alt="Options">
 
 [https://d3.statosio.com/options/](https://d3.statosio.com/options/)
