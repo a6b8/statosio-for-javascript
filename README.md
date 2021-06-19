@@ -22,13 +22,13 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/introduction.svg" height="55px" alt="Introduction">
 
-[https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
+> [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/documentation.svg" height="55px" alt="Introduction">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/documentation.svg" height="55px" alt="Documentation">
 
-[https://d3.statosio.com](https://d3.statosio.com/)
+> [https://d3.statosio.com](https://d3.statosio.com/)
 <br>
 <br>
 <br>
