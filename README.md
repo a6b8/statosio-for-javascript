@@ -19,12 +19,13 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 [Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
 
 
-
 **Source:**
 ```html
   <script src="https://cdnjs.cloudflare.com/ajax/libs/statosio/0.9/statosio.js"></script>
 ```
-
+<br>
+<br>
+<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/introduction.svg" height="55px" alt="Introduction">
 
 [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
@@ -37,8 +38,6 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 <br>
 <br>
-
-
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/chart-types.svg" height="55px" alt="Chart Types">
 
 :heavy_check_mark: build simple diagrams fast and reliable, with one function!
@@ -59,10 +58,17 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 <br>
 <br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="55px" alt="Parameters">
 
-
-
-## Statosio
+### Select
+![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)<br>
+[Select and change position of columns](https://d3.statosio.com/tutorials/select-data.html)
+### Sort Data
+![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)<br>
+[Sort dataset by values](https://d3.statosio.com/tutorials/sort-data.html)
+### Change Style
+![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
+[Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
 
 ```javascript
 d3.statosio( dataset, x, y, options )
@@ -76,7 +82,8 @@ d3.statosio( dataset, x, y, options )
 | **options** | ```{}``` | Object |
 
 
-### Options
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/options.svg" height="55px" alt="Options">
+
 [https://d3.statosio.com/options/](https://d3.statosio.com/options/)
 
 |   | **Option** | **Default** | **Examples** | **Description** |
@@ -123,16 +130,26 @@ d3.statosio( dataset, x, y, options )
 | D.15. | [styleOtherCircleChartRadius](https://d3.statosio.com/options/style__other__circle_chart_radius.html) | 4 | [A](https://d3.statosio.com/options/style__other__circle_chart_radius.html#example-a), [B](https://d3.statosio.com/options/style__other__circle_chart_radius.html#example-b) | Set radius of circle. |
 | D.16. | [styleOtherRangeXTextRotation](https://d3.statosio.com/options/style__other__range_x_text_rotation.html) | -45 | [A](https://d3.statosio.com/options/style__other__range_x_text_rotation.html#example-a), [B](https://d3.statosio.com/options/style__other__range_x_text_rotation.html#example-b) | Set text rotation of the x axis. |
 
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/contributing.svg" height="55px" alt="Contributing">
 
-## Future
-- [ ] url parameters
-- [ ] d3 -> canvas -> png
-- [ ] blur
-- [ ] premium overlay
-- [ ] node.js version
-- [ ] greyscale mode
-- [ ] IBCS Color Standards
+Bug reports and pull requests are welcome on GitHub at https://github.com/a6b8/statosio-for-wordpress. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/a6b8/statosio/blob/master/CODE_OF_CONDUCT.md).
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/license.svg" height="55px" alt="License">
 
-
-## Licence
-d3.statosio is released under the MIT License.
+The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/code-of-conduct.svg" height="55px" alt="Code of Conduct">
+    
+Everyone interacting in the Statosio project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/a6b8/statosio-for-wordpress/blob/master/CODE_OF_CONDUCT.md).
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/support-my-work.svg" height="55px" alt="Support my Work">
+    
+Donate by [https://www.paypal.com](https://www.paypal.com/donate?hosted_button_id=XKYLQ9FBGC4RG)
