@@ -6,7 +6,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/features.svg" height="55px" alt="Features">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/examples.svg" height="55px" alt="Examples">
 
 ### Select
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)<br>
@@ -17,12 +17,6 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 ### Change Style
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
 [Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
-
-
-**Source:**
-```html
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/statosio/0.9/statosio.js"></script>
-```
 <br>
 <br>
 <br>
@@ -58,24 +52,16 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 <br>
 <br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="55px" alt="Parameters">
-
-### Select
-![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)<br>
-[Select and change position of columns](https://d3.statosio.com/tutorials/select-data.html)
-### Sort Data
-![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)<br>
-[Sort dataset by values](https://d3.statosio.com/tutorials/sort-data.html)
-### Change Style
-![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
-[Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
-<br>
-<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/quickstart.svg" height="55px" alt="Quickstart">
 
 ```javascript
 d3.statosio( dataset, x, y, options )
 ``````
+
+**Source:**
+```html
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/statosio/0.9/statosio.js"></script>
+```
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="55px" alt="Parameters">
