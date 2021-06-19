@@ -55,16 +55,43 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/quickstart.svg" height="55px" alt="Quickstart">
 
 ```javascript
-d3.statosio( dataset, x, y, options )
+<!DOCTYPE html>
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js"></script>
+    <script src="../libs/statosio.js"></script>
+</head>
+<body>
+    <script>
+        d3.json( "../data/performance.json" )
+            .then( ( file ) => {
+                d3.statosio( 
+                    file, 
+                    "name", 
+                    [ "mobile" ], 
+                    { 
+                        "showAverage" : false,
+                    }
+                )
+            } 
+        )
+    </script>
+</body>
 ``````
+
+
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="55px" alt="Parameters">
 
 **Source:**
 ```html
   <script src="https://cdnjs.cloudflare.com/ajax/libs/statosio/0.9/statosio.js"></script>
 ```
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="55px" alt="Parameters">
+
+```javascript
+d3.statosio( dataset, x, y, options )
+``````
 
 | | **Value** | **Type** |
 |------:|:------|:------|
