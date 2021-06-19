@@ -1,8 +1,23 @@
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-for-wordpress/readme/headlines/statosio-js.svg" height="55px" alt="# statosio.js">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/statosio-js.svg" height="55px" alt="# statosio.js">
 
 [![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
 
 Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way.
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/features.svg" height="55px" alt="Features">
+
+### Select
+![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)<br>
+[Select and change position of columns](https://d3.statosio.com/tutorials/select-data.html)
+### Sort Data
+![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)<br>
+[Sort dataset by values](https://d3.statosio.com/tutorials/sort-data.html)
+### Change Style
+![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
+[Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
+
 
 
 **Source:**
@@ -10,31 +25,21 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
   <script src="https://cdnjs.cloudflare.com/ajax/libs/statosio/0.9/statosio.js"></script>
 ```
 
-**Video Introduction:**
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/introduction.svg" height="55px" alt="Introduction">
+
 [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
+<br>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/documentation.svg" height="55px" alt="Introduction">
 
-
-**Documentation:** 
 [https://d3.statosio.com](https://d3.statosio.com/)
+<br>
+<br>
+<br>
 
 
-
-
-**Table of Contens**
-- [Chart Types](#chart-types)
-  * [Bar](#bar)
-  * [Point](#point)
-  * [Stacked](#stacked)
-- [Features](#features)
-  * [Select](#select)
-  * [Sort Data](#sort-data)
-  * [Change Style](#change-style)
-- [Statosio](#statosio)
-  * [Options](#options)
-- [Future](#future)
-
-
-## Chart Types
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/chart-types.svg" height="55px" alt="Chart Types">
 
 :heavy_check_mark: build simple diagrams fast and reliable, with one function!
 
@@ -51,17 +56,10 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 ### Stacked
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-stacked-bar-400.jpg)<br>
 [Create simple stacked bar chart](https://d3.statosio.com/tutorials/simple-stacked-bar-chart.html)
+<br>
+<br>
+<br>
 
-## Features
-### Select
-![# d3.statosio](https://d3.statosio.com/assets/images/example-select-400.jpg)<br>
-[Select and change position of columns](https://d3.statosio.com/tutorials/select-data.html)
-### Sort Data
-![# d3.statosio](https://d3.statosio.com/assets/images/example-sort-400.jpg)<br>
-[Sort dataset by values](https://d3.statosio.com/tutorials/sort-data.html)
-### Change Style
-![# d3.statosio](https://d3.statosio.com/assets/images/example-customize-400.jpg)<br>
-[Change style to dark-mode](https://d3.statosio.com/tutorials/change-style.html)
 
 
 ## Statosio
