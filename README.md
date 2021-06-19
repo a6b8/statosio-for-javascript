@@ -1,14 +1,9 @@
-![# d3.statosio](https://d3.statosio.com/assets/images/d3-statosio-200.png)
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-for-wordpress/readme/headlines/statosio-js.svg" height="55px" alt="# statosio.js">
 
 [![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
 
 Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way.
 
-:heavy_check_mark: build simple diagrams fast and reliable, with one function!
-
-:heavy_check_mark: pure javascript, no additonal css.
-
-:heavy_check_mark: highly customizable with 40+ style and data options.
 
 **Source:**
 ```html
@@ -40,6 +35,13 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 
 
 ## Chart Types
+
+:heavy_check_mark: build simple diagrams fast and reliable, with one function!
+
+:heavy_check_mark: pure javascript, no additonal css.
+
+:heavy_check_mark: highly customizable with 40+ style and data options.
+
 ### Bar
 ![# d3.statosio](https://d3.statosio.com/assets/images/example-bar-400.jpg)<br>
 [Create simple bar chart](https://d3.statosio.com/tutorials/simple-bar-chart.html)
