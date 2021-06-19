@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/statosio-js.svg" height="55px" alt="# statosio.js">
-
 [![CDNJS](https://img.shields.io/cdnjs/v/statosio.svg)](https://cdnjs.com/libraries/statosio)
 
-Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way.
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/statosio-js.svg" height="55px" alt="# statosio.js">
+
+Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way. 
 <br>
 <br>
 <br>
@@ -25,11 +25,9 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 > [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
 <br>
 <br>
-<br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/documentation.svg" height="55px" alt="Documentation">
 
 > [https://d3.statosio.com](https://d3.statosio.com/)
-<br>
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/chart-types.svg" height="55px" alt="Chart Types">
