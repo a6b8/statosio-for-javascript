@@ -72,7 +72,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/introduction.svg" height="38px" alt="Introduction" name="video-introduction">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/video-introduction.svg" height="38px" alt="Video Introduction" name="video-introduction">
 </a>
 
 > [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
