@@ -22,7 +22,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 
 <br>
 
-<a href="#table-of-contents">
+<a href="#headline">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/table-of-contents.svg" height="38px" alt="Table of Contents" name="table-of-contents">
 </a>
 
