@@ -23,6 +23,24 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 
 <a href="#table-of-contents">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/quickstart.svg" height="38px" alt="Table of Contents" name="table-of-contents">
+</a>
+
+1. [Examples](#examples)<br>
+2. [Quickstart](#quickstart)<br>
+3. [Video Introduction](#video-introduction)
+4. [Documentation](#documentation)<br>
+5. [Chart Types](#chart-types)<br>
+6. [Parameters](#parameters)<br>
+7. [Options](#options)<br>
+8. [Contributing](#contributing)<br>
+9.  [License](#license)<br>
+10. [Code of Conduct](#code-of-conduct)<br>
+11. [Support my Work](#support-my-work)<br>
+
+<br>
+
+<a href="#table-of-contents">
 <img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/quickstart.svg" height="38px" alt="Quickstart" name="quickstart">
 </a>
 
@@ -54,7 +72,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/introduction.svg" height="38px" alt="Introduction" name="introduction">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/introduction.svg" height="38px" alt="Introduction" name="video-introduction">
 </a>
 
 > [https://www.youtube.com/watch?v=i6od9O8jz1E](https://www.youtube.com/watch?v=i6od9O8jz1E)
@@ -94,7 +112,7 @@ Statosio is an add-on function for [d3](https://d3js.org) to generate simple cha
 <br>
 
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="38px" alt="Parameters">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/parameters.svg" height="38px" alt="Parameters" name="parameters">
 </a>
 
 **Source:**
@@ -116,7 +134,7 @@ d3.statosio( dataset, x, y, options )
 <br>
 
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/options.svg" height="38px" alt="Options" name="parameters">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/options.svg" height="38px" alt="Options" name="options">
 </a>
 
 [https://d3.statosio.com/options/](https://d3.statosio.com/options/)
@@ -168,7 +186,7 @@ d3.statosio( dataset, x, y, options )
 <br>
 
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/contributing.svg" height="38px" alt="Contributing" name="contribution">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/contributing.svg" height="38px" alt="Contributing" name="contributing">
 </a>
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/a6b8/statosio-for-wordpress. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/a6b8/statosio/blob/master/CODE_OF_CONDUCT.md).
