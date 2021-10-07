@@ -1,33 +1,44 @@
-const puppeteer = require('puppeteer');
+function addStr( str, index, insert ){
+  return str.substring( 0, index ) + insert + str.substring( index, str.length );
+}
 
-a = (async () => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
 
-  // Define a window.onCustomEvent function on the page.
-  await page.exposeFunction('onCustomEvent', (e) => {
-    console.log(`${e.type} fired`, e.detail || '');
+const fs = require( 'fs' )
+const puppeteer = require( 'puppeteer' )
+
+async function test() {
+  const statosio = fs.readFileSync( './dist/statosio.js' ,{ encoding: 'utf8' } )
+  const template = fs.readFileSync( './test/files/template.html' ,{ encoding: 'utf8' } )
+  
+  const htmls = template
+      .split( '//insert statosio' )
+  htmls.splice( 1, 0, statosio )
+  html = htmls.join( '' )
+
+  const browser = await puppeteer.launch()
+  const page = await browser.newPage()
+  await page.setContent( 
+      html, 
+      { waitUntil: [ 'load','networkidle0' ] } 
+  )
+
+  const test = await page.evaluate(() => {
+      return document
+          .getElementById( 'd3_statosio' )
+          .getElementsByTagName( 'svg' )[ 0 ]
+          .outerHTML
   });
 
-  /**
-   * Attach an event listener to page to capture a custom event on page load/navigation.
-   * @param {string} type Event name.
-   * @returns {!Promise}
-   */
-  function listenFor(type) {
-    return page.evaluateOnNewDocument((type) => {
-      document.addEventListener(type, (e) => {
-        window.onCustomEvent({ type, detail: e.detail });
-      });
-    }, type);
+  const original = fs.readFileSync( './test/files/compare.html' ,{ encoding: 'utf8' } )
+  await browser.close()
+
+  if( original === test ) {
+      console.log( 'Test passed.' )
+      process.exit( 0 )
+  } else {
+      console.log( 'Test not passed.' )
+      process.exit( 1 )
   }
+}
 
-  await listenFor('app-ready'); // Listen for "app-ready" custom event on page load.
-
-  await page.goto('https://www.chromestatus.com/features', {
-    waitUntil: 'networkidle0',
-  });
-
-  console.log( "All tests passed." )
-  await browser.close();
-})();
+test()

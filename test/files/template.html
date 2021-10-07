@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.2.0/d3.js"></script>
+    <script>//insert statosio</script>
+</head>
+<body>
+    <script>
+        d3.json( "https://d3.statosio.com/data/performance.json" )
+            .then( ( file ) => {
+                d3.statosio( 
+                    file, 
+                    "name", 
+                    [ "mobile" ], 
+                    { 
+                        "dataSortCurrent" : "values", 
+                        "dataSortByValues" : "ascending", 
+                        "showAverage" : false,
+                    }
+                )
+            } 
+        )
+    </script>
+</body>
+
