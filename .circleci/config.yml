@@ -6,4 +6,4 @@ jobs:
       - checkout
       - run: node --version
       - run: npm install
-      - run: test/circle-ci.js
+      - run: ./test/circle-ci.js
