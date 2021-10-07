@@ -5,4 +5,4 @@ jobs:
     steps:
       - checkout
       - run: node --version
-      - run: ./test/circle-ci.js
+      - run: test/circle-ci.js
