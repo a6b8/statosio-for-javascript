@@ -1,5 +1,5 @@
 <a href="#table-of-contents">
-<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/statosio-js.svg" height="45px" alt="# Statosio for Javascript" name="headline">
+<img src="https://raw.githubusercontent.com/a6b8/a6b8/main/docs/statosio-js/readme/headlines/headline.svg" height="45px" alt="Statosio for Javascript" name="# Statosio for Javascript">
 </a>
 
 Statosio is an add-on function for [d3](https://d3js.org) to generate simple charts, in a fast and reliable way. 
