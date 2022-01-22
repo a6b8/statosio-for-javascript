@@ -16,7 +16,7 @@ try {
     htmls.splice( 1, 0, statosio )
     html = htmls.join( '' )
 
-    const browser = await puppeteer.launch( { headless: false } )
+    const browser = await puppeteer.launch( { headless: true } )
     const page = await browser.newPage()
 
     const buff = new Buffer( html )
@@ -39,7 +39,7 @@ try {
         './test/files/compare.html',
         { encoding: 'utf8' } 
     )
-    
+
     await browser.close()
 
     if( original === test ) {
