@@ -19,7 +19,7 @@ try {
     const browser = await puppeteer.launch( { headless: true } )
     const page = await browser.newPage()
 
-    const buff = new Buffer( html )
+    const buff = new Buffer.from( html )
     const base64data = buff.toString( 'base64' )
     const data_str = `data:text/html;base64,${base64data}`
 
